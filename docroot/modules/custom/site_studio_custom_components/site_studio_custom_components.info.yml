@@ -1,0 +1,9 @@
+name: Site Studio Custom Components
+description: Creates site studio custom components.
+package: Custom
+
+type: module
+core_version_requirement: ^9.4 || ^10
+
+dependencies:
+  - cohesion

@@ -1,0 +1,14 @@
+# Ignore paths that contain user-generated content.
+docroot/files
+docroot/sites/*/files
+docroot/sites/*/private
+docroot/core/
+docroot/modules/contrib/
+docroot/themes/contrib/
+docroot/profiles/contrib/
+docroot/libraries/
+
+vendor/
+
+/.editorconfig
+/.gitattributes

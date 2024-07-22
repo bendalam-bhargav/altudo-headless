@@ -1,0 +1,69 @@
+{
+  "canvas": [],
+  "disabledNodes": [],
+  "componentForm": [
+    {
+      "type": "form-field",
+      "uid": "form-input",
+      "title": "Input",
+      "translate": true,
+      "status": {
+        "collapsed": false
+      },
+      "iconColor": "formField",
+      "uuid": "ca7749e9-2cc3-4bff-827c-feae1bb4f9b0",
+      "parentUid": "root"
+    },
+    {
+      "type": "form-field",
+      "uid": "form-input",
+      "title": "Input",
+      "translate": true,
+      "status": {
+        "collapsed": false
+      },
+      "iconColor": "formField",
+      "uuid": "a4e2466e-028a-4bb0-bcde-b0afd22a503f",
+      "parentUid": "root"
+    }
+  ],
+  "model": {
+    "ca7749e9-2cc3-4bff-827c-feae1bb4f9b0": {
+      "settings": {
+        "type": "cohTextBox",
+        "title": "Image Source",
+        "schema": {
+          "type": "string",
+          "escape": true
+        },
+        "machineName": "image_source",
+        "tooltipPlacement": "auto right"
+      }
+    },
+    "a4e2466e-028a-4bb0-bcde-b0afd22a503f": {
+      "settings": {
+        "type": "cohTextBox",
+        "title": "Image Alt",
+        "schema": {
+          "type": "string",
+          "escape": true
+        },
+        "machineName": "image_alt",
+        "tooltipPlacement": "auto right"
+      }
+    }
+  },
+  "mapper": {
+    "ca7749e9-2cc3-4bff-827c-feae1bb4f9b0": {},
+    "a4e2466e-028a-4bb0-bcde-b0afd22a503f": {}
+  },
+  "previewModel": {
+    "ca7749e9-2cc3-4bff-827c-feae1bb4f9b0": {},
+    "a4e2466e-028a-4bb0-bcde-b0afd22a503f": {}
+  },
+  "variableFields": {
+    "ca7749e9-2cc3-4bff-827c-feae1bb4f9b0": [],
+    "a4e2466e-028a-4bb0-bcde-b0afd22a503f": []
+  },
+  "meta": {}
+}

@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * @file
+ * Attach libraries to head tag.
+ */
+
+/**
+ * Implements hook_page_attachments().
+ * @param array $attachments
+ */
+function libraries_loader_page_attachments(array &$attachments) {
+  $attachments['#attached']['library'][] = 'libraries_loader/adobedtm';
+}

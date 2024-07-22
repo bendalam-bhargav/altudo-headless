@@ -1,0 +1,7 @@
+altudo_cookie.user_info_form:
+  path: '/admin/config/system/altudo_cookie/user-info'
+  defaults:
+    _form: '\Drupal\altudo_cookie\Form\UserInfoForm'
+    _title: 'User Information Form'
+  requirements:
+    _permission: 'administer site configuration'

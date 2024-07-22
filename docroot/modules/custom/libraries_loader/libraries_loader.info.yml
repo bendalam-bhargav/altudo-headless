@@ -1,0 +1,6 @@
+name: Libraries Loader
+description: Loads external libraries in head tag.
+package: Custom
+
+type: module
+core_version_requirement: ^9.4 || ^10

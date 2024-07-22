@@ -1,0 +1,5 @@
+adobedtm:
+  version: 1.0
+  header: true
+  js:
+    https://assets.adobedtm.com/launch-ENb87d98570ae64447a7f981a0c4962bb7-development.min.js: { external: true, attributes: { async: true, data-cfasync: false } }

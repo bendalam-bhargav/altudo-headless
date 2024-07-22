@@ -1,0 +1,6 @@
+altudo_cookie.user_info_form:
+  title: 'User Information Form'
+  description: 'Form to store user information in cookies.'
+  parent: system.admin_config_system
+  route_name: altudo_cookie.user_info_form
+  weight: 100

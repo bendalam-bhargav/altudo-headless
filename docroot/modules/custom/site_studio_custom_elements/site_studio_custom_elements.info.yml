@@ -1,0 +1,7 @@
+name: Site Studio Custom Elements
+type: module
+description: 'Creates Site Studio Custom Elements.'
+core_version_requirement: ^9 || ^10
+package: Custom
+dependencies:
+  - cohesion

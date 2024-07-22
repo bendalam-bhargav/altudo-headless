@@ -1,0 +1,4 @@
+name: Image Source
+category: cpt_cat_basic_components
+template: template.html.twig
+form: form.json

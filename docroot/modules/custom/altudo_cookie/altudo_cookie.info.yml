@@ -1,0 +1,5 @@
+name: 'Altudo Cookie'
+type: module
+description: 'A custom module to create a form and store values in cookies.'
+core_version_requirement: ^8 || ^9 || ^10
+package: Custom
